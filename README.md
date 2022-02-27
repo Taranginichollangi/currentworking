@@ -1,1 +1,2 @@
 # currentworking
+mvn -version
